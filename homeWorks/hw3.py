@@ -8,7 +8,7 @@ class Bank:
         add_balanse = float(input("Введите сумму которую хотите добавить на счет:"))
         self._balanse += add_balanse
         print(f'Ваш текущий баланс: {self._balanse}')
-
+git
     def _kill(self):
         self._balanse = 0
         print(f"Ваш баланс обнулен: {self._balanse}")
