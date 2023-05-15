@@ -32,3 +32,10 @@ a1.copy_balanse(a2)
 
 print(f'Баланс Beka:{a1._balanse}')
 print(f'Баланс Rus: {a2._balanse}')
+
+
+
+
+
+
+
